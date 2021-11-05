@@ -1,0 +1,207 @@
+id_aux;food_group;food_subgroup;id_food_table;nombre_primario;nombre_secundario;mean;std;zeros;zeros (%)
+144;1;fruits;drupes;apricot;apricot, dried;1102.6470786666666;5770.411944271467;12;19.672131147540984
+134;25;pulses;beans;common bean;beans, white, dried;2319.2375847777776;7118.081244281161;10;16.39344262295082
+134;29;pulses;beans;common bean;beans, brown, dried;2163.9972524444447;6830.809960675577;10;16.39344262295082
+85;32;soy;soy;soy bean;beans, soy, dried;2251.6454824999996;5772.900150133849;10;16.39344262295082
+707;35;cocoa and cocoa products;cocoa products;cocoa powder;cocoa, powder;2073.7724957592595;5591.974966446515;14;22.950819672131146
+135;44;fruits;other fruits;date;date, dried;2736.2575129444444;12883.048081488285;11;18.0327868852459
+149;51;fruits;drupes;peach;peach, dried;2726.5193678703695;11599.274144673946;13;21.311475409836063
+81;52;fruits;other fruits;fig;fig, dried;2500.2945265370363;11091.690881523416;11;18.0327868852459
+8;90;herbs and spices;herbs;garlic;garlic, dried, powder;1971.7408219629633;8823.74889780421;20;32.78688524590164
+456;95;herbs and spices;herbs;rose hip;rose hip, dried, powder;2289.9899635370366;8687.724705018054;31;50.81967213114754
+175;116;vegetables;tubers;potato;potato flour;1598.519147962963;11563.860544176283;14;22.950819672131146
+98;147;pulses;lentils;lentils;lentils, dried;2106.1753189074075;7637.502066754704;14;22.950819672131146
+85;155;soy;soy;soy bean;soya flour, full fat;2269.156597740741;6061.641018337904;11;18.0327868852459
+205;172;cereals and cereal products;cereals;corn;corn flour;1763.8258734259264;10274.855099610593;15;24.59016393442623
+205;173;cereals and cereal products;cereals;corn;corn starch;1670.2431185000003;12080.97673504257;38;62.295081967213115
+381;192;nuts;nuts;hazelnut;nut, hazel (uk), filbert (usa), dried;1385.8323565185185;3649.2956759173508;10;16.39344262295082
+16;193;nuts;nuts;peanut;nut, pea, dried;1867.4801949629632;4610.948122315369;11;18.0327868852459
+125;222;cereals and cereal products;cereals;rice;rice flour;1780.656584425926;10794.677513639586;13;21.311475409836063
+147;280;fruits;drupes;european plum;prune, dried plum;2025.9500425000003;9101.7181776318;11;18.0327868852459
+105;338;fruits;pomes;apple;apple, dried;989.8979523333335;5673.90753389072;13;21.311475409836063
+682;389;baking goods;baking goods;leavening agent;baking powder;2324.494688759259;8765.955400645942;44;72.1311475409836
+700;406;herbs and spices;herb and spice mixtures;curry powder;curry powder;1538.6913563888886;5853.652303741735;34;55.73770491803278
+170;463;herbs and spices;oilseed crops;sesame;sesame seed, decorticated;1388.5685546666666;3501.0929184792517;13;21.311475409836063
+86;479;herbs and spices;oilseed crops;sunflower;sunflower seeds, decorticated, dried;886.9995747407405;3617.9816478618777;37;60.65573770491803
+61;527;herbs and spices;herbs;coriander;coriander, leaf, dried;1781.1851055185184;6673.311920442775;39;63.934426229508205
+575;531;cereals and cereal products;cereals;wheat;wheat flour;1802.3765030925922;9544.400470970799;11;18.0327868852459
+169;541;cereals and cereal products;cereals;rye;rye flour, dark, whole meal;1902.2009888703706;8644.565981290121;11;18.0327868852459
+575;542;cereals and cereal products;cereals;wheat;wheat, flour, wholemeal;1837.2275737037037;8399.788148057873;10;16.39344262295082
+44;651;nuts;nuts;pecan nut;pecans, dried;765.4924451111111;2014.4632880790743;16;26.229508196721312
+138;654;nuts;nuts;pine nut;pine nuts, pignolias, dried;1117.9762618333334;2699.5958763849226;13;21.311475409836063
+140;655;nuts;nuts;pistachio;pistachio nuts, dried;1363.130374611111;3555.701338768242;13;21.311475409836063
+170;657;herbs and spices;oilseed crops;sesame;sesame seeds, whole, dried;1464.037256203704;3552.1338418895934;14;22.950819672131146
+13;842;herbs and spices;herbs;dill;dill weed, dried;1760.550661277778;6833.570751052208;39;63.934426229508205
+79;1014;cereals and cereal products;cereals;common buckwheat;buckwheat flour;1694.4102514074077;9001.700617326318;21;34.42622950819672
+79;1014;cereals and cereal products;cereals;common buckwheat;wheat flour;1752.9843254814816;9544.908005490706;21;34.42622950819672
+616;1049;aquatic foods;seaweed;kombu;seaweed, konbu, dried (kelp);1843.3711609074076;7578.333290836795;34;55.73770491803278
+682;1057;baking goods;baking goods;leavening agent;yeast, dried;1811.0296409629632;5239.617064411627;17;27.86885245901639
+171;1478;vegetables;fruit vegetables;garden tomato;tomato, dried;2581.3377837037033;8131.655197156265;13;21.311475409836063
+288;2001;herbs and spices;spices;allspice;spices, allspice, ground;2241.9292351851846;10228.342074076469;30;49.18032786885246
+137;2002;herbs and spices;herbs;anise;spices, anise seed;2253.792575814815;7722.158691891104;29;47.540983606557376
+119;2003;herbs and spices;herbs;sweet basil;spices, basil, dried;2986.5436129259247;8736.88869089115;7;11.475409836065573
+97;2004;herbs and spices;herbs;sweet bay;spices, bay leaf;2390.8650245555555;10779.661053862132;30;49.18032786885246
+43;2005;herbs and spices;spices;caraway;spices, caraway seed;2991.4589648148144;8881.750022855269;10;16.39344262295082
+74;2006;herbs and spices;spices;cardamom;spices, cardamom;2296.293656925926;10079.366907210908;32;52.459016393442624
+15;2007;herbs and spices;spices;wild celery;spices, celery seed;2464.450324314815;7333.985531894146;28;45.90163934426229
+332;2008;herbs and spices;spices;chervil;spices, chervil, dried;2121.2885796296296;7714.612962495036;30;49.18032786885246
+40;2009;vegetables;fruit vegetables;pepper;spices, chili powder;2949.6023351851854;8560.499755406232;7;11.475409836065573
+50;2010;herbs and spices;spices;chinese cinnamon;spices, cinnamon, ground;2791.5860229074065;12981.134768605043;7;11.475409836065573
+179;2011;herbs and spices;spices;cloves;spices, cloves, ground;2714.501796296296;10056.853581509504;7;11.475409836065573
+61;2012;herbs and spices;herbs;coriander;spices, coriander leaf, dried;2246.965662962963;7929.61081015833;27;44.26229508196721
+61;2013;herbs and spices;herbs;coriander;spices, coriander seed;2823.3891174259265;9756.479746678215;32;52.459016393442624
+67;2014;herbs and spices;spices;cumin;spices, cumin seed;2366.299455555555;7341.003526971334;27;44.26229508196721
+700;2015;herbs and spices;herb and spice mixtures;curry powder;spices, curry powder;2585.947161129629;9273.06720516961;26;42.62295081967213
+13;2016;herbs and spices;herbs;dill;spices, dill seed;2499.761427777778;8425.49521910754;21;34.42622950819672
+13;2017;herbs and spices;herbs;dill;spices, dill weed, dried;2096.1118347222227;8302.680837927759;34;55.73770491803278
+82;2018;herbs and spices;herbs;fennel;spices, fennel seed;3011.1494629629633;9207.539478328512;14;22.950819672131146
+186;2019;herbs and spices;herbs;fenugreek;spices, fenugreek seed;2653.4602787962963;8966.802781208813;14;22.950819672131146
+8;2020;herbs and spices;herbs;garlic;spices, garlic powder;2300.2825601851855;10106.05231207492;7;11.475409836065573
+206;2021;herbs and spices;spices;ginger;spices, ginger, ground;2240.101345444444;9913.666562485414;7;11.475409836065573
+118;2022;herbs and spices;spices;nutmeg;spices, mace, ground;2568.065705722223;8617.286443352119;30;49.18032786885246
+122;2023;herbs and spices;herbs;sweet marjoram;spices, marjoram, dried;2728.2792910370367;9990.351904761948;27;44.26229508196721
+420;2024;herbs and spices;spices;white mustard;spices, mustard seed, ground;3312.886253611111;7627.531850057461;7;11.475409836065573
+118;2025;herbs and spices;spices;nutmeg;spices, nutmeg, ground;3223.565881481481;9861.850306067077;28;45.90163934426229
+5;2026;vegetables;onion-family vegetables;allium;spices, onion powder;2359.3279518518516;10964.265266218668;7;11.475409836065573
+124;2027;herbs and spices;herbs;common oregano;spices, oregano, dried;2840.519374074073;10915.79486393102;7;11.475409836065573
+40;2028;vegetables;fruit vegetables;pepper;spices, paprika;3047.1460254444446;8966.980144171494;7;11.475409836065573
+131;2029;herbs and spices;herbs;parsley;spices, parsley, dried;3128.5102147777775;8417.391856351303;7;11.475409836065573
+139;2030;herbs and spices;spices;pepper (spice);spices, pepper, black;2284.9323444444444;9317.63202964406;8;13.114754098360656
+40;2031;vegetables;fruit vegetables;pepper;spices, pepper, red or cayenne;2721.658550648148;8928.680578353686;27;44.26229508196721
+139;2032;herbs and spices;spices;pepper (spice);spices, pepper, white;2072.183538888889;9979.86499415254;30;49.18032786885246
+447;2033;herbs and spices;spices;opium poppy;spices, poppy seed;3360.913231481481;8221.843044982379;8;13.114754098360656
+159;2036;herbs and spices;herbs;rosemary;spices, rosemary, dried;2759.622065851852;10530.205468058015;30;49.18032786885246
+63;2037;herbs and spices;spices;saffron;spices, saffron;1833.6008527037036;9019.558473361662;30;49.18032786885246
+165;2038;herbs and spices;herbs;common sage;spices, sage, ground;2748.434855555556;10005.83095611328;27;44.26229508196721
+167;2039;herbs and spices;herbs;summer savory;spices, savory, ground;2667.7279185185184;11173.986811838751;34;55.73770491803278
+19;2041;herbs and spices;herbs;tarragon;spices, tarragon, dried;2055.3432127777783;7638.617321387422;30;49.18032786885246
+183;2042;herbs and spices;herbs;common thyme;spices, thyme, dried;2612.163939462963;10077.172123054079;21;34.42622950819672
+68;2043;herbs and spices;spices;turmeric;spices, turmeric, ground;2289.486072222222;9323.75817263369;26;42.62295081967213
+112;2066;herbs and spices;herbs;spearmint;spearmint, dried;2692.705944444445;8460.619118073984;13;21.311475409836063
+270;8120;cereals and cereal products;cereal products;breakfast cereal;cereals, oats, regular and quick, not fortified, dry;2215.708740703704;9382.326158905102;9;14.754098360655737
+270;8144;cereals and cereal products;cereal products;breakfast cereal;cereals, whole wheat hot natural cereal, dry;1904.0737464444444;10355.29644239784;27;44.26229508196721
+205;8158;cereals and cereal products;cereals;corn;cereals, corn grits, white, regular and quick, unenriched, dry;1899.7669500000002;10842.340151033457;10;16.39344262295082
+841;8158;cereals and cereal products;cereal products;corn grits;cereals, corn grits, white, regular and quick, unenriched, dry;1899.7669500000002;10842.340151033457;10;16.39344262295082
+205;8160;cereals and cereal products;cereals;corn;cereals, corn grits, yellow, regular and quick, unenriched, dry;1899.7669500000002;10842.340151033457;10;16.39344262295082
+841;8160;cereals and cereal products;cereal products;corn grits;cereals, corn grits, yellow, regular and quick, unenriched, dry;1899.7669500000002;10842.340151033457;10;16.39344262295082
+270;8172;cereals and cereal products;cereal products;breakfast cereal;cereals, farina, unenriched, dry;1906.8242288333333;10659.843740236434;12;19.672131147540984
+208;9041;fruits;tropical fruits;banana;bananas, dehydrated, or banana powder;2987.78305937037;13513.251060771554;10;16.39344262295082
+204;9085;fruits;berries;common grape;currants, zante, dried;2899.644703703705;13479.460986697703;26;42.62295081967213
+393;9147;fruits;other fruits;jujube;jujube, dried;1506.651405351852;10012.513211791638;37;60.65573770491803
+103;9165;fruits;tropical fruits;lichee;litchis, dried;2804.930324962963;13020.748677410475;24;39.34426229508197
+224;9173;fruits;tropical fruits;longan;longans, dried;1616.5056456666664;10066.451615227232;21;34.42622950819672
+791;9188;fruits;fruit products;fruit salad;fruit, mixed, (prune and apricot and pear), dried;1448.7314043333336;8754.040294280067;30;49.18032786885246
+73;9264;fruits;tropical fruits;japanese persimmon;persimmons, japanese, dried;1738.759648148148;10135.469519981178;20;32.78688524590164
+560;11230;vegetables;mushrooms;jews ear;pepeao, dried;1673.266082574074;11027.705088929977;33;54.09836065573771
+562;11268;vegetables;mushrooms;shiitake;mushrooms, shiitake, dried;2168.5285944444445;10361.737971509545;9;14.754098360655737
+5;11284;vegetables;onion-family vegetables;allium;onions, dehydrated flakes;2824.5351814814817;12353.570899611765;8;13.114754098360656
+261;11432;vegetables;root vegetables;daikon radish;radishes, oriental, dried;2840.3423093518522;10364.285475812168;9;14.754098360655737
+171;11548;vegetables;fruit vegetables;garden tomato;tomato powder;3174.94865;11905.975996304545;9;14.754098360655737
+285;11663;aquatic foods;seaweed;agar;seaweed, agar, dried;1949.2588917407406;11041.073292543646;27;44.26229508196721
+490;11667;aquatic foods;seaweed;spirulina;seaweed, spirulina, dried;3126.900383333333;8390.155205877794;8;13.114754098360656
+245;11683;vegetables;root vegetables;carrot;carrot, dehydrated;3143.395940462963;12277.146462011631;9;14.754098360655737
+171;11955;vegetables;fruit vegetables;garden tomato;tomatoes, sun-dried;2857.9389166666665;9362.227151814915;8;13.114754098360656
+40;11962;vegetables;fruit vegetables;pepper;peppers, hot chile, sun-dried;3300.5576940370365;11501.880843133928;8;13.114754098360656
+40;11978;vegetables;fruit vegetables;pepper;peppers, ancho, dried;2172.2637341851855;7688.98366233702;11;18.0327868852459
+40;11982;vegetables;fruit vegetables;pepper;peppers, pasilla, dried;2132.018411111111;8160.927580491812;32;52.459016393442624
+568;11988;vegetables;mushrooms;cloud ear fungus;fungi, cloud ears, dried;2903.8941523333337;13653.948101126647;33;54.09836065573771
+333;12006;herbs and spices;other seeds;chia;seeds, chia seeds, dried;3335.992201240741;8909.119638070913;13;21.311475409836063
+346;12007;herbs and spices;oilseed crops;cottonseed;seeds, cottonseed flour, partially defatted (glandless);2832.370844444444;7763.49311536617;11;18.0327868852459
+346;12008;herbs and spices;oilseed crops;cottonseed;seeds, cottonseed flour, low fat (glandless);2862.811351851852;8341.178509228717;13;21.311475409836063
+406;12013;herbs and spices;other seeds;lotus;seeds, lotus seeds, dried;2001.1041111111113;8932.681864813674;14;22.950819672131146
+66;12014;gourds;gourds;cucurbita;seeds, pumpkin and squash seed kernels, dried;3422.7748910555556;8409.581290412987;8;13.114754098360656
+906;12014;gourds;gourds;sunburst squash (pattypan squash);seeds, pumpkin and squash seed kernels, dried;3422.7748910555556;8409.581290412987;8;13.114754098360656
+918;12014;gourds;gourds;japanese pumpkin;seeds, pumpkin and squash seed kernels, dried;3422.7748910555556;8409.581290412987;8;13.114754098360656
+42;12021;herbs and spices;oilseed crops;safflower;seeds, safflower seed kernels, dried;2788.956462962963;7995.820503233847;14;22.950819672131146
+42;12022;herbs and spices;oilseed crops;safflower;seeds, safflower seed meal, partially defatted;2498.712948296296;8122.138849308685;14;22.950819672131146
+170;12023;herbs and spices;oilseed crops;sesame;seeds, sesame seeds, whole, dried;3297.323174074074;8484.802057921494;10;16.39344262295082
+170;12032;herbs and spices;oilseed crops;sesame;seeds, sesame flour, partially defatted;2823.2884444444444;7323.305288566018;14;22.950819672131146
+170;12033;herbs and spices;oilseed crops;sesame;seeds, sesame flour, low-fat;2836.198925925926;8312.044479089987;14;22.950819672131146
+170;12034;herbs and spices;oilseed crops;sesame;seeds, sesame meal, partially defatted;3007.953611111111;8295.850821373697;14;22.950819672131146
+86;12036;herbs and spices;oilseed crops;sunflower;seeds, sunflower seed kernels, dried;3333.5714634259266;8609.644102667453;8;13.114754098360656
+86;12039;herbs and spices;oilseed crops;sunflower;seeds, sunflower seed kernels, toasted, without salt;3447.7257751296297;9762.826262616918;12;19.672131147540984
+86;12041;herbs and spices;oilseed crops;sunflower;seeds, sunflower seed flour, partially defatted;2839.308204148148;8128.788687021133;11;18.0327868852459
+283;12059;nuts;nuts;acorn;nuts, acorns, dried;2485.241226259259;8747.967462844348;15;24.59016393442623
+283;12060;nuts;nuts;acorn;nuts, acorn flour, full fat;2435.189574074074;8746.757931503076;15;24.59016393442623
+301;12077;nuts;nuts;beech nut;nuts, beechnuts, dried;2759.2913300740743;8884.258503011883;15;24.59016393442623
+24;12078;nuts;nuts;brazil nut;nuts, brazilnuts, dried, unblanched;3421.3376296296287;10177.3677896002;8;13.114754098360656
+320;12084;nuts;nuts;butternut;nuts, butternuts, dried;3495.1159424074076;10105.974391846907;11;18.0327868852459
+336;12094;nuts;nuts;chinese chestnut;nuts, chestnuts, chinese, dried;1874.3272539444442;10846.542412954284;13;21.311475409836063
+368;12099;nuts;nuts;european chestnut;nuts, chestnuts, european, dried, unpeeled;2121.315736611111;10593.48854982683;11;18.0327868852459
+368;12100;nuts;nuts;european chestnut;nuts, chestnuts, european, dried, peeled;1877.199738092593;10659.900158962646;13;21.311475409836063
+341;12114;fruits;tropical fruits;coconut;nuts, coconut meat, dried (desiccated), toasted;2787.053059407408;10223.538980159004;13;21.311475409836063
+372;12128;herbs and spices;other seeds;ginkgo nuts;nuts, ginkgo nuts, dried;1896.0930370370372;9892.831327561822;13;21.311475409836063
+382;12130;nuts;nuts;hickory nut;nuts, hickorynuts, dried;3362.218312388889;10357.300396766463;11;18.0327868852459
+440;12145;nuts;nuts;pili nut;nuts, pilinuts, dried;3474.759833333333;12474.830568995976;13;21.311475409836063
+138;12147;nuts;nuts;pine nut;nuts, pine nuts, dried;3326.5228287592595;10664.690467922966;7;11.475409836065573
+441;12149;nuts;nuts;colorado pinyon;nuts, pine nuts, pinyon, dried;3266.492890703704;9766.935773208541;12;19.672131147540984
+93;12154;nuts;nuts;black walnut;nuts, walnuts, black, dried;3397.30605;9824.6691828974;7;11.475409836065573
+93;12154;nuts;nuts;black walnut;walnuts;3397.30605;9824.6691828974;7;11.475409836065573
+170;12170;herbs and spices;oilseed crops;sesame;seeds, sesame flour, high-fat;3181.7218819444447;7652.552186753204;14;22.950819672131146
+52;12174;gourds;gourds;watermelon;seeds, watermelon seed kernels, dried;3234.863851851851;8426.468948205464;14;22.950819672131146
+390;12175;nuts;nuts;japanese chestnut;nuts, chestnuts, japanese, dried;1830.4019259259262;11064.287422010777;13;21.311475409836063
+341;12177;fruits;tropical fruits;coconut;nuts, coconut meat, dried (desiccated), creamed;3160.885378092592;12660.603013880756;13;21.311475409836063
+485;12193;herbs and spices;other seeds;hedge mustard;seeds, sisymbrium sp. seeds, whole, dried;2141.9506043518522;8353.947790938442;13;21.311475409836063
+170;12201;herbs and spices;oilseed crops;sesame;seeds, sesame seed kernels, dried (decorticated);3550.8066370370366;9826.941415827388;9;14.754098360655737
+101;12220;herbs and spices;oilseed crops;flaxseed;seeds, flaxseed;3413.047253703704;8698.669971944952;7;11.475409836065573
+768;14204;coffee and coffee products;coffee products;coffee mocha;coffee and cocoa (mocha) powder, with whitener and low calorie sweetener, decaffeinated;2832.897605555555;10913.118105906333;25;40.98360655737705
+326;16055;vegetables;other vegetables;carob;carob flour;3555.648826462964;14562.396125173611;9;14.754098360655737
+16;16099;nuts;nuts;peanut;peanut flour, defatted;3194.320057407408;8672.49567566112;10;16.39344262295082
+16;16100;nuts;nuts;peanut;peanut flour, low fat;3063.1225203703702;7083.156322741485;12;19.672131147540984
+85;16117;soy;soy;soy bean;soy flour, defatted;3401.9798851851842;8658.412045779482;9;14.754098360655737
+85;16118;soy;soy;soy bean;soy flour, low-fat;2459.4420333333323;8096.0332563837555;26;42.62295081967213
+718;16128;soy;soy products;tofu;tofu, dried-frozen (koyadofu);3285.8121537037036;8051.233562198235;11;18.0327868852459
+47;16157;pulses;peas;chickpea;chickpea flour (besan);2192.376414814815;8561.238450094044;28;45.90163934426229
+85;16417;soy;soy;soy bean;soy flour, defatted, crude protein basis (n x 6.25);3455.2595913148143;8233.453587442365;8;13.114754098360656
+85;16418;soy;soy;soy bean;soy flour, low-fat, crude protein basis (n x 6.25);3458.0604308888887;8557.82271833158;10;16.39344262295082
+682;18369;baking goods;baking goods;leavening agent;leavening agents, baking powder, double-acting, sodium aluminum sulfate;2110.7057494999995;9912.577934819055;40;65.57377049180327
+682;18370;baking goods;baking goods;leavening agent;leavening agents, baking powder, double-acting, straight phosphate;2249.6540222222225;10350.196433419716;39;63.934426229508205
+682;18371;baking goods;baking goods;leavening agent;leavening agents, baking powder, low-sodium;2180.1178801666665;8974.723899717384;35;57.377049180327866
+682;18375;baking goods;baking goods;leavening agent;leavening agents, yeast, bakers, active dry;3104.0404292037038;8429.282973491683;7;11.475409836065573
+707;19165;cocoa and cocoa products;cocoa products;cocoa powder;cocoa, dry powder, unsweetened;3103.78830112963;9376.88532890154;7;11.475409836065573
+707;19166;cocoa and cocoa products;cocoa products;cocoa powder;cocoa, dry powder, unsweetened, processed with alkali;3037.7590164629614;9178.9728123801;7;11.475409836065573
+707;19171;cocoa and cocoa products;cocoa products;cocoa powder;cocoa, dry powder, unsweetened, hersheys european style cocoa;2045.1128815185186;8980.384379291365;48;78.68852459016394
+707;19859;cocoa and cocoa products;cocoa products;cocoa powder;cocoa, dry powder, hi-fat or breakfast, plain;2863.250745685185;8881.432192459293;27;44.26229508196721
+707;19860;cocoa and cocoa products;cocoa products;cocoa powder;cocoa, dry powder, hi-fat or breakfast, processed with alkali;2965.6916705;8972.017167382519;27;44.26229508196721
+291;20003;vegetables;tubers;arrowroot;arrowroot flour;1718.2060661111113;11992.770473960536;14;22.950819672131146
+79;20011;cereals and cereal products;cereals;common buckwheat;buckwheat flour, whole-groat;2167.5686433703704;9736.694136163822;9;14.754098360655737
+766;20012;cereals and cereal products;cereal products;bulgur;bulgur, dry;2300.9380631111117;10623.577919874875;9;14.754098360655737
+205;20016;cereals and cereal products;cereals;corn;corn flour, whole-grain, yellow;2006.496198148148;10475.612529925103;9;14.754098360655737
+205;20018;cereals and cereal products;cereals;corn;corn flour, degermed, unenriched, yellow;1748.478061111111;11260.740297375412;28;45.90163934426229
+205;20019;cereals and cereal products;cereals;corn;corn flour, masa, unenriched, white;2075.291254907407;10412.220157021404;10;16.39344262295082
+205;20020;cereals and cereal products;cereals;corn;cornmeal, whole-grain, yellow;2036.5113053703706;10489.665908209645;8;13.114754098360656
+205;20027;cereals and cereal products;cereals;corn;cornstarch;1727.7784407407407;12415.79360529665;16;26.229508196721312
+125;20056;cereals and cereal products;cereals;rice;rice, white, with pasta, dry;1981.6738506296297;10281.284252990614;11;18.0327868852459
+125;20061;cereals and cereal products;cereals;rice;rice flour, white;1821.865057407408;10892.852915818954;11;18.0327868852459
+169;20063;cereals and cereal products;cereals;rye;rye flour, dark;2418.0667166851854;9950.950662819476;10;16.39344262295082
+169;20064;cereals and cereal products;cereals;rye;rye flour, medium;2085.634598148148;10395.47587764301;10;16.39344262295082
+169;20065;cereals and cereal products;cereals;rye;rye flour, light;1985.6441018518522;10496.914920800966;10;16.39344262295082
+771;20068;baking goods;baking goods;tapioca pearl;tapioca, pearl, dry;1736.9483776481482;12065.239466921088;11;18.0327868852459
+246;20070;cereals and cereal products;cereals;triticale;triticale flour, whole-grain;2228.8545925925923;10185.440967944678;13;21.311475409836063
+575;20080;cereals and cereal products;cereals;wheat;wheat flour, whole-grain;2179.1260345925925;9953.220656201584;8;13.114754098360656
+125;20090;cereals and cereal products;cereals;rice;rice flour, brown;1933.3627539444444;10405.744275720546;12;19.672131147540984
+88;20130;cereals and cereal products;cereals;barley;barley flour or meal;2070.3227759259257;10235.011063009828;8;13.114754098360656
+88;20131;cereals and cereal products;cereals;barley;barley malt flour;2079.3288870370375;10701.033856537004;9;14.754098360655737
+22;20132;cereals and cereal products;cereals;oat;oat flour, partially debranned;2001.3049666666668;9181.070295519547;26;42.62295081967213
+205;20315;cereals and cereal products;cereals;corn;corn flour, whole-grain, blue (harina de maiz morado);1827.8579804074077;10144.96618756409;34;55.73770491803278
+205;20316;cereals and cereal products;cereals;corn;corn flour, whole-grain, white;2006.496198148148;10475.612529925103;9;14.754098360655737
+205;20320;cereals and cereal products;cereals;corn;cornmeal, whole-grain, white;2036.5113053703706;10489.665908209645;8;13.114754098360656
+205;20422;cereals and cereal products;cereals;corn;cornmeal, degermed, unenriched, yellow;1908.6344907407413;10809.544639246084;9;14.754098360655737
+125;20446;cereals and cereal products;cereals;rice;rice, white, long-grain, parboiled, unenriched, dry;1881.8612037037044;11004.805783468459;10;16.39344262295082
+575;20481;cereals and cereal products;cereals;wheat;wheat flour, white, all-purpose, unenriched;1901.4222951111103;10424.449361230516;9;14.754098360655737
+205;20522;cereals and cereal products;cereals;corn;cornmeal, degermed, unenriched, white;1908.6344907407413;10809.544639246084;9;14.754098360655737
+126;20647;cereals and cereal products;cereals;millet;millet flour;2064.256916037037;9980.162211741932;10;16.39344262295082
+177;20648;cereals and cereal products;cereals;sorghum;sorghum flour;2036.3252333333332;10558.16015016907;10;16.39344262295082
+575;20649;cereals and cereal products;cereals;wheat;wheat flour, whole-grain, soft wheat;1941.0357514629638;10294.693263818484;27;44.26229508196721
+205;35131;cereals and cereal products;cereals;corn;cornmeal, blue (navajo);2058.3034695555557;10567.550408702331;29;47.540983606557376
+205;35134;cereals and cereal products;cereals;corn;corn, dried (navajo);1904.9322994444447;10263.36185467788;30;49.18032786885246
+205;35136;cereals and cereal products;cereals;corn;cornmeal, white (navajo);2274.9342111111114;10593.250400991043;11;18.0327868852459
+205;35137;cereals and cereal products;cereals;corn;cornmeal, yellow (navajo);2168.251688888889;10004.181120211271;10;16.39344262295082
+205;35183;cereals and cereal products;cereals;corn;corn, dried, yellow (northern plains indians);2970.6143055555553;9878.210737570382;11;18.0327868852459
+577;35194;vegetables;other vegetables;agave;agave, dried (southwest);2903.9567830555557;13103.199217756268;30;49.18032786885246
+863;35232;herbs and spices;herbs;yellow pond-lily;wocas, dried seeds, oregon, yellow pond lily, nuphar lutea (or) - cy0617b;2073.528692092593;11164.873928962556;29;47.540983606557376
+768;43343;coffee and coffee products;coffee products;coffee mocha;coffee and cocoa (mocha) powder, with whitener and low calorie sweetener;2842.4716796296293;10910.817454746955;25;40.98360655737705
+58;43401;coffee and coffee products;coffee;coffee;coffee, dry, powder, with whitener, reduced calorie;3391.9142394259256;12245.851999997556;29;47.540983606557376
+59;43401;coffee and coffee products;coffee;arabica coffee;coffee, dry, powder, with whitener, reduced calorie;3391.9142394259256;12245.851999997556;29;47.540983606557376
+60;43401;coffee and coffee products;coffee;robusta coffee;coffee, dry, powder, with whitener, reduced calorie;3391.9142394259256;12245.851999997556;29;47.540983606557376
+15;44055;herbs and spices;spices;wild celery;celery flakes, dried;3041.55699074074;10612.042093370817;28;45.90163934426229

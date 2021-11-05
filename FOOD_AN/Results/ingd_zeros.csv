@@ -1,0 +1,22 @@
+id_aux;food_group;food_subgroup;id_food_table;nombre_primario;nombre_secundario;mean;std;zeros;zeros (%)
+707;19171;cocoa and cocoa products;cocoa products;cocoa powder;cocoa, dry powder, unsweetened, hersheys european style cocoa;2045.1128815185186;8980.384379291365;48;78.68852459016394
+682;389;baking goods;baking goods;leavening agent;baking powder;2324.494688759259;8765.955400645942;44;72.1311475409836
+682;18369;baking goods;baking goods;leavening agent;leavening agents, baking powder, double-acting, sodium aluminum sulfate;2110.7057494999995;9912.577934819055;40;65.57377049180327
+61;527;herbs and spices;herbs;coriander;coriander, leaf, dried;1781.1851055185184;6673.311920442775;39;63.934426229508205
+13;842;herbs and spices;herbs;dill;dill weed, dried;1760.550661277778;6833.570751052208;39;63.934426229508205
+682;18370;baking goods;baking goods;leavening agent;leavening agents, baking powder, double-acting, straight phosphate;2249.6540222222225;10350.196433419716;39;63.934426229508205
+205;173;cereals and cereal products;cereals;corn;corn starch;1670.2431185000003;12080.97673504257;38;62.295081967213115
+393;9147;fruits;other fruits;jujube;jujube, dried;1506.651405351852;10012.513211791638;37;60.65573770491803
+86;479;herbs and spices;oilseed crops;sunflower;sunflower seeds, decorticated, dried;886.9995747407405;3617.9816478618777;37;60.65573770491803
+682;18371;baking goods;baking goods;leavening agent;leavening agents, baking powder, low-sodium;2180.1178801666665;8974.723899717384;35;57.377049180327866
+13;2017;herbs and spices;herbs;dill;spices, dill weed, dried;2096.1118347222227;8302.680837927759;34;55.73770491803278
+205;20315;cereals and cereal products;cereals;corn;corn flour, whole-grain, blue (harina de maiz morado);1827.8579804074077;10144.96618756409;34;55.73770491803278
+167;2039;herbs and spices;herbs;summer savory;spices, savory, ground;2667.7279185185184;11173.986811838751;34;55.73770491803278
+616;1049;aquatic foods;seaweed;kombu;seaweed, konbu, dried (kelp);1843.3711609074076;7578.333290836795;34;55.73770491803278
+700;406;herbs and spices;herb and spice mixtures;curry powder;curry powder;1538.6913563888886;5853.652303741735;34;55.73770491803278
+560;11230;vegetables;mushrooms;jews ear;pepeao, dried;1673.266082574074;11027.705088929977;33;54.09836065573771
+568;11988;vegetables;mushrooms;cloud ear fungus;fungi, cloud ears, dried;2903.8941523333337;13653.948101126647;33;54.09836065573771
+40;11982;vegetables;fruit vegetables;pepper;peppers, pasilla, dried;2132.018411111111;8160.927580491812;32;52.459016393442624
+61;2013;herbs and spices;herbs;coriander;spices, coriander seed;2823.3891174259265;9756.479746678215;32;52.459016393442624
+74;2006;herbs and spices;spices;cardamom;spices, cardamom;2296.293656925926;10079.366907210908;32;52.459016393442624
+456;95;herbs and spices;herbs;rose hip;rose hip, dried, powder;2289.9899635370366;8687.724705018054;31;50.81967213114754

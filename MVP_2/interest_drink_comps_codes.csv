@@ -1,0 +1,23 @@
+Protein;Protein;FDBN00002;Nutrient
+Carbohydrate;Carbohydrate;FDBN00003;Nutrient
+Water;Water;FDB013390;Compound
+Caffeine;Caffeine;FDB002100;Compound
+Sugars;Sugars;FDB003715;Compound
+Calcium, Ca;Calcium;FDB003513;Compound
+Iron, Fe;Iron;FDB016251;Compound
+Magnesium, Mg;Magnesium;FDB003518;Compound
+Phosphorus, P;Phosphorus;FDB003520;Compound
+Potassium, K;Potassium;FDB003521;Compound
+Sodium, Na;Sodium;FDB003523;Compound
+Zinc, Zn;Zinc;FDB003729;Compound
+Copper, Cu;Copper;FDB003582;Compound
+Selenium, Se;Selenium;FDB013400;Compound
+Vitamin C;Ascorbic acid;FDB001223;Compound
+Thiamin;Thiamine;FDB008424;Compound
+Riboflavin;Riboflavine;FDB012160;Compound
+Niacin;Nicotinic acid;FDB001014;Compound
+Vitamin B6;Pyridoxine;FDB000574;Compound
+Choline;Choline;FDB000710;Compound
+Vitamin K;Phytomenadione;FDB023087;Compound
+Folic acid;Folic acid;FDB014504;Compound
+Vitamin B12, added;Cobalamin;FDB022886;Compound

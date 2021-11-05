@@ -1,0 +1,68 @@
+248;g
+Nutrient;Amount;Unit;DV;category;subcategory;subsubcategory
+"Fat";0.00;G;0%;Fats and Fatty Acids;-;-
+"Protein";1.14;G;2%;Proteins and Aminoacids;-;-
+"Carbohydrate";25.37;G;9%;Carbohydrates;-;-
+"Alcohol, ethyl";0.0;G;;Other;-;-
+"Water";221.27;G;;Other;-;-
+"Caffeine";71.92;MG;;Other;-;-
+"Theobromine";0.00;MG;;Other;-;-
+"Sugars";25.35;G;;Carbohydrates;-;-
+"Fiber";0.0;G;0%;Carbohydrates;-;-
+"Calcium, Ca";14.88;MG;1%;Minerals;-;-
+"Iron, Fe";0.15;MG;1%;Minerals;-;-
+"Magnesium, Mg";47.12;MG;12%;Minerals;-;-
+"Phosphorus, P";0.00;MG;0%;Minerals;-;-
+"Potassium, K";7.44;MG;0%;Minerals;-;-
+"Sodium, Na";96.72;MG;4%;Minerals;-;-
+"Zinc, Zn";0.02;MG;0%;Minerals;-;-
+"Copper, Cu";0.005;MG;1%;Minerals;-;-
+"Selenium, Se";0.5;UG;1%;Minerals;-;-
+"Retinol";0.00;UG;;Vitamins;Vitamin A, RAE;-
+"Vitamin A, RAE";0.00;UG;0%;Vitamins;-;-
+"Carotene, beta";0.00;UG;;Vitamins;Vitamin A, RAE;-
+"Carotene, alpha";0.00;UG;;Vitamins;Vitamin A, RAE;-
+"Vitamin E";0.00;MG;0%;-;-;-
+"Vitamin D";0.00;UG;0%;Vitamins;-;-
+"Cryptoxanthin, beta";0.00;UG;;Vitamins;Vitamin A, RAE;-
+"Lycopene";0.00;UG;;Vitamins;Vitamin A, RAE;-
+"Lutein + zeaxanthin";0.00;UG;;Vitamins;Vitamin A, RAE;-
+"Vitamin C";0.0;MG;0%;Vitamins;-;-
+"Thiamin";0.099;MG;8%;Vitamins;-;-
+"Riboflavin";0.255;MG;20%;Vitamins;-;-
+"Niacin";24.371;MG;152%;Vitamins;-;-
+"Vitamin B6";5.374;MG;413%;Vitamins;-;-
+"Folate";0.00;UG;;-;-;-
+"Vitamin B12";4.89;UG;204%;Vitamins;-;-
+"Choline";0.7;MG;;Vitamins;-;-
+"Vitamin K";0.0;UG;0%;Vitamins;-;-
+"Folic acid";0.00;UG;;Vitamins;Folate, DFE;-
+"Folate, food";0.00;UG;;Vitamins;Folate, DFE;-
+"Folate, DFE";0.00;UG;0%;Vitamins;-;-
+"Vitamin E, added";0.00;MG;;Vitamins;Vitamin E (alpha-tocopherol);-
+"Vitamin B12, added";4.86;UG;;Vitamins;Vitamin B12;-
+"Cholesterol";0.00;MG;0%;Sterols;-;-
+"Saturated fatty acids";0.000;G;0%;Fats and Fatty Acids;Fat;-
+"Butanoic acid";0.000;G;;Fats and Fatty Acids;Fat;Saturated fatty acids
+"Hexanoic acid";0.000;G;;Fats and Fatty Acids;Fat;Saturated fatty acids
+"Octanoic acid";0.000;G;;Fats and Fatty Acids;Fat;Saturated fatty acids
+"Decanoic acid";0.000;G;;Fats and Fatty Acids;Fat;Saturated fatty acids
+"Dodecanoic acid";0.000;G;;Fats and Fatty Acids;Fat;Saturated fatty acids
+"Tetradecanoic acid";0.000;G;;Fats and Fatty Acids;Fat;Saturated fatty acids
+"Hexadecanoic acid";0.000;G;;Fats and Fatty Acids;Fat;Saturated fatty acids
+"Octadecanoic acid";0.000;G;;Fats and Fatty Acids;Fat;Saturated fatty acids
+"Octadecenoic acid";0.000;G;;-;-;-
+"Octadecadienoic acid";0.000;G;;Fats and Fatty Acids;Fat;Monounsaturated fatty acids
+"Octadecatrienoic acid";0.000;G;;-;-;-
+"Eicosatetraenoic acid";0.000;G;;Fats and Fatty Acids;Fat;Monounsaturated fatty acids
+"Docosahexaenoic n-3 acid (DHA)";0.00;G;;Fats and Fatty Acids;Fat;Monounsaturated fatty acids
+"Hexadecenoic acid";0.000;G;;-;-;-
+"Octadecatetraenoic acid";0.000;G;;-;-;-
+"Eicosenoic acid";0.000;G;;-;-;-
+"Eicosapentaenoic n-3 acid (EPA)";0.00;G;;Fats and Fatty Acids;Fat;Monounsaturated fatty acids
+"Docosenoic acid";0.000;G;;-;-;-
+"Docosapentaenoic n-3 acid (DPA)";0.00;G;;Fats and Fatty Acids;Fat;Monounsaturated fatty acids
+"Monounsaturated fatty acids";0.000;G;;Fats and Fatty Acids;Fat;-
+"Polyunsaturated fatty acids";0.000;G;;-;-;-
+"Tocopherol, alpha";0.00;MG;;Vitamins;Vitamin E (alpha-tocopherol);-
+"Net carbs";25.37;g;;Carbohydrates;-;-

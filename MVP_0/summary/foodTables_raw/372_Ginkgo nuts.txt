@@ -1,0 +1,16 @@
+Protein;0.06417500000000001
+Caffeine;0.0
+Calcium, Ca;6.890000000000001e-05
+Iron, Fe;1.138e-05
+Magnesium, Mg;0.00027
+Phosphorus, P;0.0015928000000000001
+Potassium, K;0.0060454
+Sodium, Na;0.000691
+Zinc, Zn;4.22e-06
+Copper, Cu;3.4e-06
+Selenium, Se;5e-09
+Thiamin;2.5075e-06
+Riboflavin;1.2999999999999998e-06
+Niacin;7.091e-05
+Vitamin B6;3.7375000000000002e-06
+Folic acid;0.000101611875
