@@ -8,6 +8,20 @@ from sql_functions import get_sql_connection
 def get_model(model_filepath, tokenizer_filepath):
     '''Rutina que permite obtener el modelo entrenado y su correspondiente 
     tokenizer.
+    
+    Parameters
+    ----------
+    model_filepath : str
+        Dirección donde se encuentra el modelo.
+    tokenizer_filepath : str
+        Dirección donde se encuentra el tokenizer.
+    
+    Returns
+    -------
+    model : tf.keras.Model
+        Modelo de la red implementada.
+    tokenizer : tokenizer object
+        Objeto tokenizador para el procesamiento de texto. 
     '''
     # Obtener el modelo
     model = tf.keras.models.load_model(model_filepath)
@@ -22,6 +36,34 @@ def get_model(model_filepath, tokenizer_filepath):
 def model_testing(model, sentence, tokenizer, connection, 
                   tokenizer_type='custom', split_bool=False, 
                   test=False):
+    '''Rutina que permite generar predicciones de un modelo en
+    base a una oración.
+    
+    Parameters
+    ----------
+    model : tf.keras.Model
+        Modelo de la red implementada.
+    sentence : str or list
+        Oración a mapear sobre los concepto de interés.
+    tokenizer : tokenizer object
+        Objeto tokenizador para el procesamiento de texto.
+    connection : mysql.connector.connection.MySQLConnection
+        Objeto que representa la conexión con la base de datos.
+    tokenizer_type : {'tensorflow', 'custom'}, optional
+        Tipo de tokenizer a utilizar. Por defecto es 'custom'.
+    split_bool : bool, optional
+        Booleano que indica si se aplica split sobre la información
+        entregada en el parámetro "sentence". Por defecto es False.
+    test : bool, optional
+        Booleano que indica si se utilizan los conceptos de testeo.
+        Por defecto es False.
+    
+    Returns
+    -------
+    results : list
+        Lista ordenada con los resultados de la evaluación del 
+        modelo.
+    '''
     # Definición de los conceptos clave a buscar
     names, descriptions = preprocess_HE_decriptions(connection, test=test)
     
@@ -52,6 +94,36 @@ def model_testing(model, sentence, tokenizer, connection,
 def query_embeddings(sentence, tokenizer, embedding_matrix, connection, 
                      tokenizer_type='custom', split_bool=False, 
                      distance_metric='euclidean', test=False):
+    '''Rutina que permite obtener los conceptos más probables en base a la 
+    proximidad de los embeddings.
+    
+    Parameters
+    ----------
+    sentence : str or list
+        Oración a mapear sobre los concepto de interés.
+    tokenizer : tokenizer object
+        Objeto tokenizador para el procesamiento de texto.
+    embedding_matrix : ndarray
+        Matriz de embeddings.
+    connection : mysql.connector.connection.MySQLConnection
+        Objeto que representa la conexión con la base de datos.
+    tokenizer_type : {'tensorflow', 'custom'}, optional
+        Tipo de tokenizer a utilizar. Por defecto es 'custom'.
+    split_bool : bool, optional
+        Booleano que indica si se aplica split sobre la información
+        entregada en el parámetro "sentence". Por defecto es False.
+    distance_metric : {'euclidean', 'cosine'}, optional
+        Métrica a utilizar para medir la proximidad de los embeddings.
+        Por defecto es 'euclidean'.
+    test : bool, optional
+        Booleano que indica si se utilizan los conceptos de testeo.
+        Por defecto es False.
+    
+    Returns
+    -------
+    concepts : list
+        Lista ordenada de los conceptos de interés.
+    '''
     # Definición de los conceptos clave a buscar
     names, descriptions = preprocess_HE_decriptions(connection, test=test)
     

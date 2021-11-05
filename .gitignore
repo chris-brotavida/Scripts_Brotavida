@@ -1,0 +1,9 @@
+# Carpetas con base de datos
+Recipe_generator_tests/tmp
+Recipe_generator_tests/Dataset_Train
+
+MVP_3/models/
+MVP_3/Summary/Skip-gram_model.h5
+MVP_3/Summary/training_data.npz
+
+NLP_INGDS_1/Results
